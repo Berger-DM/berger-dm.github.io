@@ -1,1 +1,5 @@
 theme: minima
+author: false
+minima:
+  skin: auto
+  header_pages: []
