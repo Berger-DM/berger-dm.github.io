@@ -1,5 +1,4 @@
 theme: minima
-author: false
 minima:
   skin: auto
-  header_pages: []
+  header_pages: []  # Prevents automatic navigation links
